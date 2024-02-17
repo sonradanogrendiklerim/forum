@@ -6,4 +6,4 @@ sayfalara yapılan yorumlar bu repo içerisindeki [tartışma][tartisma] bölüm
 Bu repo sadece bu tartışmaları barındırmaktadır.
 
 [giscus]: https://giscus.app/
-[tartisma]: https://github.com/eren/sonradanogrendiklerim/discussions
+[tartisma]: https://github.com/orgs/sonradanogrendiklerim/discussions
